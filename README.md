@@ -4,7 +4,7 @@
 
 - living in **Tokyo**
 - working at [**Poper**](https://poper.co)
-- big fan of [Nintendo](https://www.nintendo.co.jp)
+- big fan of [**Nintendo**](https://www.nintendo.co.jp)
 
 ### Some basic info
 
@@ -21,7 +21,7 @@
 
 ### Working on
 
-I'm currently working on a TRPG Dice Game. using [Elixir](https://elixir-lang.org) and [Phoenix](https://www.phoenixframework.org).
+I'm currently working on a TRPG Dice Game. using [**Elixir**](https://elixir-lang.org) and [**Phoenix**](https://www.phoenixframework.org).
 
 ### Github Stats
 
