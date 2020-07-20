@@ -2,7 +2,7 @@
 
 - living in **Tokyo**
 - working at [**Poper**](https://poper.co)
-- big fan of Nintendo
+- big fan of [Nintendo](https://www.nintendo.co.jp)
 
 ![李可](https://pbs.twimg.com/media/EbHcFaYUMAEi6K9?format=jpg&name=medium)
 
