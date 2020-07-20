@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+```elixir
+	
+	Epona
+	|> email("epona@hey.com")
+	|> skill(["PHP", "Laravel", "JavaScript", "Vue", "Redis", "Nginx", "Docker"])
+	|> learnging(["Elixir", "Phoenix", "Product"])
+	|> tools(["PHPStorm", "VS Code", "NeoVim", "Tmux", "TablePlus"])
+	
+```
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
