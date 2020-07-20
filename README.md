@@ -12,6 +12,7 @@
 	
 	Epona
 	|> email("epona@hey.com")
+	|> blog("https://blog.epona.me")
 	|> skill(["PHP", "Laravel", "JavaScript", "Vue", "Redis", "Nginx", "Docker"])
 	|> learnging(["Elixir", "Phoenix", "Product"])
 	|> tools(["PHPStorm", "VS Code", "NeoVim", "Tmux", "TablePlus"])
