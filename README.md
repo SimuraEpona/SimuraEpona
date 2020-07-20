@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Epona
+
+- living in **Tokyo**
+- working at [**Poper**](https://poper.co)
+- big fan of Nintendo
+
+![李可](https://pbs.twimg.com/media/EbHcFaYUMAEi6K9?format=jpg&name=medium)
+
+### Some basic info
 
 ```elixir
 	
@@ -10,6 +18,15 @@
 	
 ```
 
+### Working on
+
+I'm currently working on a TRPG Dice Game. using [Elixir](https://elixir-lang.org) and [Phoenix](https://www.phoenixframework.org).
+
+### Github Stats
+
+![Epona's github stats](https://github-readme-stats.vercel.app/api?username=SimuraEpona&show_icons=true)
+
+### WakaTime Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
