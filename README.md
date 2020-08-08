@@ -23,6 +23,10 @@
 
 I'm currently working on a TRPG Dice Game. using [**Elixir**](https://elixir-lang.org) and [**Phoenix**](https://www.phoenixframework.org).
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Github Stats
 
 ![Epona's github stats](https://github-readme-stats.vercel.app/api?username=SimuraEpona&show_icons=true)
