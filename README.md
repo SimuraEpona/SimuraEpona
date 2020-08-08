@@ -23,7 +23,7 @@
 
 I'm currently working on a TRPG Dice Game. using [**Elixir**](https://elixir-lang.org) and [**Phoenix**](https://www.phoenixframework.org).
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [在PHP中生成日期数组](https://blog.epona.me/2020/03/12/get-date-range-in-php/)
 - [学习Affinity Designer之漂浮的山](https://blog.epona.me/2020/02/24/designer-03/)
