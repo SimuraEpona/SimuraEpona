@@ -40,13 +40,13 @@ I'm currently working on a TRPG Dice Game. using [**Elixir**](https://elixir-lan
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2020 - 24 December, 2020
+Week: 18 December, 2020 - 25 December, 2020
 
-PHP          21 hrs 15 mins  █████████████████▓░░░░░░░   71.16 % 
-Other        4 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-CSV          1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-JavaScript   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Elixir       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+PHP          20 hrs 19 mins  █████████████████▒░░░░░░░   68.76 % 
+Other        4 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+CSV          56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+JavaScript   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Elixir       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 <!--END_SECTION:waka-->
 
