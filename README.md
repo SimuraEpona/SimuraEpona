@@ -40,7 +40,7 @@ I'm currently working on a TRPG Dice Game. using [**Elixir**](https://elixir-lan
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 July, 2021 - 09 July, 2021
+Week: 04 July, 2021 - 10 July, 2021
 
 PHP              10 hrs 18 mins  █████████████████████░░░░   84.11 % 
 Blade Template   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
