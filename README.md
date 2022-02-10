@@ -40,7 +40,7 @@ I'm currently working on a TRPG Dice Game. using [**Elixir**](https://elixir-lan
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 08 February, 2022
+Week: 03 February, 2022 - 09 February, 2022
 
 PHP       28 hrs 31 mins  █████████████████▓░░░░░░░   70.13 % 
 Ruby      5 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 % 
