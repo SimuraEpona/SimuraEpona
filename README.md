@@ -39,15 +39,18 @@ I'm currently working on a TRPG Dice Game. using [**Elixir**](https://elixir-lan
 ### WakaTime Stats
 
 <!--START_SECTION:waka-->
-```text
-From: 18 February, 2022 - To: 25 February, 2022
 
-PHP              2 hrs 26 mins   ████████████████▓░░░░░░░░   66.02 % 
-Blade Template   22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Log              16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-CSV/TSV          16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-.env file        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Ruby             5 hrs 25 mins   ███████████████░░░░░░░░░░   59.38 %
+PHP              2 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
+Blade Template   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Log              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+CSV/TSV          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+.env file        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!--
