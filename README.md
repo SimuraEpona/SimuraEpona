@@ -41,7 +41,7 @@ I'm currently working on a TRPG Dice Game. using [**Elixir**](https://elixir-lan
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 August 2022 - To: 27 August 2022
+From: 21 August 2022 - To: 28 August 2022
 
 PHP              5 hrs 50 mins   ███████████████████▒░░░░░   77.22 %
 Blade Template   52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
