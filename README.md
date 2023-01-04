@@ -41,10 +41,7 @@ I'm currently working on a TRPG Dice Game. using [**Elixir**](https://elixir-lan
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 December 2022 - To: 02 January 2023
-
-Ruby   0 secs          █████████████████░░░░░░░░   67.60 %
-Text   0 secs          ████████░░░░░░░░░░░░░░░░░   32.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
