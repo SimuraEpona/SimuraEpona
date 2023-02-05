@@ -41,14 +41,14 @@ I'm currently working on a TRPG Dice Game. using [**Elixir**](https://elixir-lan
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 January 2023 - To: 03 February 2023
+From: 28 January 2023 - To: 04 February 2023
 
-Ruby              4 hrs 45 mins   █████████░░░░░░░░░░░░░░░░   35.75 %
-PHP               3 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   24.07 %
-Elixir            1 hr 57 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-ERB               45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Bash              29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Markdown          28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Ruby             4 hrs 45 mins   █████████▒░░░░░░░░░░░░░░░   36.94 %
+PHP              3 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   29.99 %
+Elixir           45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+ERB              45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Markdown         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Bash             29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
