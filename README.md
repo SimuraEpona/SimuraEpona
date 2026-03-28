@@ -1,11 +1,12 @@
-<code><img width="700" src="https://pbs.twimg.com/media/EbHcFaYUMAEi6K9?format=jpg&name=medium"></code>
+### Hi, I'm Epona 👋
 
-### Hi there 👋, I'm Epona
+Full-stack developer based in **Saitama, Japan**.
+Available for freelance / contract work.
 
-- living in **Tokyo**
-- working at [**Poper**](https://poper.co)
-- big fan of [**Nintendo**](https://www.nintendo.co.jp)
+**Tech Stack**
+- Backend: Ruby on Rails, PHP, Elixir/Phoenix
+- Frontend: JavaScript, React
+- DevOps: Kamal, Docker, Hetzner VPS
 
-### Github Stats
-
-![Epona's github stats](https://github-readme-stats.vercel.app/api?username=SimuraEpona&show_icons=true)
+**Languages**
+Chinese (native) · Japanese (professional) · English (professional)
